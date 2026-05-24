@@ -1,6 +1,7 @@
 # Hi there, I'm Fauzi Hilmi [fauuzi_11](https://www.instagram.com/fauuzi_11) 👋
-## About me:
+# introduction
 I am a student of the Faculty of Computer Science and Information Technology at Universitas Muhammadiyah Sumatera Utara (UMSU) with a strong interest and enthusiasm in the field of information technology, especially web development and programming. I am a fast learner, disciplined, responsible, and capable of working both independently and collaboratively in a team. I continuously strive to improve my skills and knowledge to keep up with the rapid development of technology.
+## About me:
 - 💬 Ask me about anything
 - 📫 How to reach me: hilmifauzi007@gmail.com
 

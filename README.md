@@ -1,59 +1,157 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
-## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CV Fauzi Adibi</title>
 
-## Education:
+  <style>
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family: Arial, sans-serif;
+    }
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+    body{
+      background:#f4f4f4;
+      color:#333;
+    }
 
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
+    .container{
+      max-width:900px;
+      margin:40px auto;
+      background:white;
+      border-radius:15px;
+      overflow:hidden;
+      box-shadow:0 5px 15px rgba(0,0,0,0.2);
+    }
 
-### Languages and Tools:
+    .header{
+      background:#1e3a8a;
+      color:white;
+      text-align:center;
+      padding:40px 20px;
+    }
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+    .profile-img{
+      width:150px;
+      height:150px;
+      border-radius:50%;
+      border:5px solid white;
+      object-fit:cover;
+      margin-bottom:15px;
+    }
 
-<br />
-<br />
+    .content{
+      padding:30px;
+    }
 
----
-### Connect with me:
+    .section{
+      margin-bottom:30px;
+    }
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+    .section h2{
+      color:#1e3a8a;
+      margin-bottom:10px;
+      border-bottom:2px solid #1e3a8a;
+      padding-bottom:5px;
+    }
 
+    .social-links{
+      margin-top:20px;
+    }
 
+    .social-links a{
+      display:inline-block;
+      margin:10px;
+      padding:12px 20px;
+      background:#1e3a8a;
+      color:white;
+      text-decoration:none;
+      border-radius:8px;
+      transition:0.3s;
+    }
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+    .social-links a:hover{
+      background:#2563eb;
+    }
+
+    footer{
+      text-align:center;
+      padding:20px;
+      background:#eee;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="header">
+
+      <!-- FOTO PROFIL -->
+      <!-- Ganti link gambar di bawah dengan foto milikmu -->
+      <img 
+        src="https://via.placeholder.com/150" 
+        alt="Foto Profil"
+        class="profile-img"
+      >
+
+      <h1>Fauzi Adibi</h1>
+      <p>Mahasiswa Fakultas Ilmu Komputer dan Teknologi Informasi</p>
+
+    </div>
+
+    <div class="content">
+
+      <div class="section">
+        <h2>Tentang Saya</h2>
+        <p>
+          Saya adalah mahasiswa Universitas Muhammadiyah Sumatera Utara (UMSU)
+          Fakultas Ilmu Komputer dan Teknologi Informasi yang memiliki minat
+          dalam bidang teknologi, pemrograman, dan pengembangan website.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Pendidikan</h2>
+
+        <h3>MAN 2 Model Medan</h3>
+        <p>2022 - 2025</p>
+
+        <br>
+
+        <h3>Universitas Muhammadiyah Sumatera Utara (UMSU)</h3>
+        <p>Fakultas Ilmu Komputer dan Teknologi Informasi</p>
+        <p>2025 - Sekarang</p>
+      </div>
+
+      <div class="section">
+        <h2>Kontak & Sosial Media</h2>
+
+        <div class="social-links">
+
+          <!-- Ganti link Instagram -->
+          <a href="https://instagram.com/usernamekamu" target="_blank">
+            Instagram
+          </a>
+
+          <!-- Ganti link LinkedIn -->
+          <a href="https://linkedin.com/in/usernamekamu" target="_blank">
+            LinkedIn
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <p>© 2026 Fauzi Adibi</p>
+    </footer>
+
+  </div>
+
+</body>
+</html>

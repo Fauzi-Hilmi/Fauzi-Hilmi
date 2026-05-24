@@ -1,4 +1,4 @@
-# Hi there, I'm Fauzi Hilmi (https://www.instagram.com/fauuzi_11) 👋
+# Hi there, I'm Fauzi Hilmi [fauuzi_11](https://www.instagram.com/fauuzi_11) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript

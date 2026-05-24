@@ -60,7 +60,7 @@ Faculty of Computer Science and Information Technology Study Program Information
 # 📬 Contact Information
 
 - 📧 Email: hilmifauzi007@gmail.com
-- 📸 Instagram: [fauuzi_11] (https://instagram.com/fauuzi_11)
+- 📸 Instagram: [fauuzi_11](https://instagram.com/fauuzi_11)
 
 ---
 

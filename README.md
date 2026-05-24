@@ -14,67 +14,53 @@ I am a student of the Faculty of Computer Science and Information Technology at 
 
 ## 🎓 Educational Background
 - MAN 2 Model Medan (2022 - 2025)
-- Universitas Muhammadiyah Sumatera Utara (UMSU)
-- Faculty of Computer Science and Information Technology
+- SMP Ar-Rahman
 
 ## 💻 Technology Interests
-- Web Development
-- Programming
 - UI/UX Basics
 - Technology and Digital Innovation
 
 ## 🌟 Soft Skills & Personal Strengths
 - Teamwork
 - Communication
-- Problem Solving
 - Time Management
-- Fast Learner
-- Responsible
-
+- 
 ---
 
 # 🛠 Skills
 
 ## Technical Skills
-- HTML
-- CSS
-- JavaScript Basics
-- Microsoft Excel
+- HTML Basics
 - UI/UX Basics
 
 ## Soft Skills
 - Teamwork
 - Communication
 - Leadership
-- Critical Thinking
 
 ---
 
 # 🚀 Experience / Projects
 
-## Personal Portfolio Website
-- Developed a simple personal portfolio website using HTML and CSS
-- Created responsive webpage layouts for desktop and mobile devices
-- Analyzed website structure and user-friendly interface design
-- Improved basic front-end development skills through personal projects
+## Personal Portfolio 
+- I once created a website in the Linux operating system
+- have created web designs using HTML and CSS
 
 ---
 
 # 🎓 Education
 
 ## Universitas Muhammadiyah Sumatera Utara (UMSU)
-Faculty of Computer Science and Information Technology  
+Faculty of Computer Science and Information Technology Study Program Information Technology 
 2025 - Present
 
-## MAN 2 Model Medan
-2022 - 2025
 
 ---
 
 # 📬 Contact Information
 
-- 📧 Email: yourname@gmail.com
-- 📸 Instagram: https://instagram.com/usernamekamu
+- 📧 Email: hilmifauzi007@gmail.com
+- 📸 Instagram: [fauuzi_11] https://instagram.com/fauuzi_11
 
 ---
 

@@ -50,7 +50,7 @@ I am a student of the Faculty of Computer Science and Information Technology at 
 
 # 🎓 Education
 
-## Universitas Muhammadiyah Sumatera Utara [UMSU] https://myclass.umsu.ac.id/pluginfile.php/1/theme_universe/customloginlogo/1770173314/logo-full.png
+## Universitas Muhammadiyah Sumatera Utara [UMSU](https://umsu.ac.id/)
 Faculty of Computer Science and Information Technology Study Program Information Technology 
 2025 - Present
 
